@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishwa-Hegde
-- 👀 I’m interested in UI design, Java programming 
-- 🌱 I’m currently learning C programming, Java, figma 
+- 👀 I’m interested in UI design, Programming. 
+- 🌱 I’m currently learning C programming, Java, figma, Python, Full-Stack
 - 💞️ I’m looking to collaborate on mini projects
 - 📫 How to reach me mail, Instagram:vishwa12_
 
